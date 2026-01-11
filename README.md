@@ -97,16 +97,15 @@ TEB, BSAT, ALUM_SAT, ESP, TCARBON_EQ, GYPSUM, ELEC_COND
 ---
 
 ## Project Structure
-notebooks/ → Jupyter notebooks (analysis, models, evaluation)
-data/processed/ → intermediary datasets to avoid reloading the whole datasets
-Datasets/ → datasets (not included due to size constraints but you can download them via the links)
+Jupyter notebooks (analysis, models, evaluation)
 
 ---
 
 ## How to Run the Project
 1. Install the libraries that are mentioned in the notebooks
+2. Install the datasets
+3. Run notebooks in the provided order(without loading)
 
-2. Run notebooks in the provided order.
 
 ---
 
@@ -116,9 +115,6 @@ Datasets/ → datasets (not included due to size constraints but you can downloa
 - Results are reproducible using the provided code and methodology.
 - Clarans didn't run properly because the sklearn.extra + numpy libraries needed python 10 so execute with caution (it's preferable to execute it on colab or any external method or environment)
 
-## Datasets
 
-Due to file size, processed datasets are not included in this repository.  
-You can download them from Google Drive:
 
 [Download datasets](https://drive.google.com/drive/folders/xxxxxxxxxxxx)
