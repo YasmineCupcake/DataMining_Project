@@ -117,5 +117,6 @@ Jupyter notebooks (analysis, models, evaluation)
 
 
 
-[Download intermediary datasets](https://drive.google.com/drive/folders/1ZT1doZsQrp4MCsC0OgqMKSBXPpvllmxU?usp=sharing)
+[Download intermediary datasets](https://drive.google.com/file/d/1a06L3MQUKPe0hsCNJM1wtluUWp3ZJ_IB/view?usp=sharing)
+
 
