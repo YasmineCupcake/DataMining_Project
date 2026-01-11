@@ -1,9 +1,14 @@
 numpy
 pandas
+geopandas
+rasterio
+glob2
+rasterstats
+pickle5
+shapely
 scikit-learn
 scikit-learn-extra
 matplotlib
 seaborn
 tqdm
-
 scipy
